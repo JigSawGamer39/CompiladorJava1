@@ -1,0 +1,17 @@
+[ERROR LEXICO] Se ha encontrado un caracter que no pertenece al alfabeto
+[ERROR SINTACTICO] No se ha encontrado coincidencia con el vocabulario
+[ERROR SINTACTICO] No se ha encontrado coincidencia con la expresion regular
+[ERROR SINTACTICO] El archivo debe contener minimo dos filas de texto 
+[ERROR SEMANTICO] El archivo debe comenzar con la declaracion de bloque INICIO bien escrita
+[ERROR SEMANTICO] El archivo debe contener la palabra FIN al final del archivo
+[ERROR SEMANTICO] Llave abierta sin cerrar
+[ERROR SEMANTICO] Parentesis abierto sin cerrar
+[ERROR SEMANTICO] Comillas abiertas sin cerrar
+[ERROR SEMANTICO] Identificador no declarado
+[ERROR SEMANTICO] Identificador repetido
+[ERROR SEMANTICO] Una palabra reservada no puede ser un identificador
+[ERROR SINTACTICO] Elemento no permitido para lectura
+[ERROR SINTACTICO] Elemento no permitido para impresion
+[ERROR SEMANTICO] No se puede imprimir una palabra reservada
+[ERROR SEMANTICO] Tipos no coincidentes
+[ERROR SEMANTICO] Tipos no soportados

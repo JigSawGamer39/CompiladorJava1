@@ -1,0 +1,5 @@
+INICIO V
+BOOLEAN B = FALSE;
+}
+B = FALSE;
+FIN
